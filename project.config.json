@@ -10,7 +10,9 @@
 	"compileType": "miniprogram",
 	"libVersion": "1.6.4",
 	"appid": "wx66d295173ca478b8",
-	"projectname": "FineGirl",
+	"projectname": "picture",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
 	"condition": {
 		"search": {
 			"current": -1,

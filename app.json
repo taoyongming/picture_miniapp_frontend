@@ -1,18 +1,12 @@
 {
   "pages": [
-    "pages/load/load",
-    "pages/setting/setting",
-    "pages/index/index",
-    "pages/help/help",
-    "pages/editInfo/editInfo",
-    "pages/user_info/user_info",
-    "pages/user/user",
-    "pages/chat/chat"
+    "pages/index/index"
   ],
   "window": {
     "backgroundTextStyle": "light",
-    "navigationBarBackgroundColor": "#f74a81",
-    "navigationBarTitleText": "探探",
+    "navigationBarBackgroundColor": "#030303",
+    "navigationBarTitleText": "picture",
     "navigationBarTextStyle": "white"
-  }
+  },
+  "sitemapLocation": "sitemap.json"
 }
