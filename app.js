@@ -28,7 +28,9 @@ App({
              
               wx.setStorage({
                 key: "token", 
-                data: json.token
+                data: json.token,
+                key: "openId", 
+                data: json.openId,
               })
             },
             fail: function () {
